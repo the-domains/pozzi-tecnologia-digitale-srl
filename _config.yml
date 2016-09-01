@@ -1,14 +1,16 @@
-layout_spectrum: 0.6168563722167164
-typography_spectrum: 0.9333616001531482
+typography_spectrum: 0.27954446128569543
 color:
-  brandStrength: 0.46315659605897963
-  lightness: 0.8517185533419251
-  saturation: 0.550450739916414
-  rhythmicContrast: 0.7677027997560799
+  brandStrength: 0.30196116981096566
+  lightness: 0.3467757946345955
+  saturation: 0.3685392332263291
+  rhythmicContrast: 0.6962424954399467
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.6449938600417227
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/12170092-e713-4075-9b9e-1b800a10a4c4.png
 name: Pozzi Tecnologia Digitale Srl
