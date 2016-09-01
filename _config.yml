@@ -11,6 +11,10 @@ color:
     - '#3498DB'
     - '#2980B9'
 layout_spectrum: 0.6449938600417227
+author:
+  name: Marco Cancellieri
+  email: m.cancellieri@pozzidigitale.it
+  url: pozzidigitale.it
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/12170092-e713-4075-9b9e-1b800a10a4c4.png
 name: Pozzi Tecnologia Digitale Srl
